@@ -1,0 +1,18 @@
+html{
+    width: 1050px;
+    margin: auto;
+    background: rgba(21, 21, 21, 0.929);
+}
+
+body{
+    font-family: system-ui;
+    color:azure
+}
+
+h3{
+    size: 3px;
+}
+
+li{
+    font-family: 'Segoe UI';
+}
